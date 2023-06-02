@@ -1,2 +1,2 @@
 # Redes
-Esse repositório para armazenamento das atividades da Disciplina de Programação Orientada a Objetos passadas ao longo do ano.
+Esse repositório para armazenamento das atividades da Introdução á Redes a Objetos passadas ao longo do ano.
